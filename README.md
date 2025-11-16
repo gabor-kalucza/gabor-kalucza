@@ -1,5 +1,9 @@
 Just a guy who builds fast stuff and loves crafting awesome software.
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/8dfdac67-e09e-4d90-a6c5-ca36778c9ae3/thumbnail" width="150" alt="Boot.dev Avatar">
+</p>
+
 Fun Facts:
 
 * I run more side projects than there are hours in a day and that’s exactly how I like it.
